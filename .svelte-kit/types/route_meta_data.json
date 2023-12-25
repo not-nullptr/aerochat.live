@@ -1,0 +1,12 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/download": [
+		"src/routes/+layout.ts"
+	],
+	"/faq": [
+		"src/routes/+layout.ts"
+	]
+}
